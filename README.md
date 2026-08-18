@@ -115,9 +115,7 @@ secret-shaped patterns, and known copy-regression markers. It cannot prove that
 prose is correct, evidence is complete, data is non-sensitive, or external
 protocols have not changed; human review remains required.
 
-`0.1.0-draft` is a provisional local version, not a publication decision. The
-repository name, owner, visibility, license, first public version, assessment
-archival policy, public-example evidence limits, and initial real validation
-projects remain owner decisions. See [LICENSE](LICENSE) and
-[CHANGELOG.md](CHANGELOG.md).
-
+`0.1.0-draft` is the first public field-testing version of Banka Docking.
+The protocol has been validated against one real brownfield software project
+and remains pre-1.0 while additional project shapes are tested. See
+[LICENSE](LICENSE) and [CHANGELOG.md](CHANGELOG.md).
