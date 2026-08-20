@@ -12,7 +12,7 @@ an `ADOPTION-ASSESSMENT.md` that records the evidence and readiness decision.
 Docking does not itself adopt Banka. It prepares the project; Banka remains
 authoritative for what happens after handoff.
 
-**Docking prepares. The assessment establishes readiness. Banka adopts.**
+**Docking prepares. The assessment verifies readiness evidence. Banka adopts and operates.**
 
 ```text
 Existing project
@@ -23,7 +23,7 @@ Banka Docking
       ↓
 Adoption assessment
       ↓
-Is scope adequate?
+Is Is decision-ready scope present?
    ├── no → clarify scope → reassess
    └── yes
             ↓
@@ -86,7 +86,7 @@ If purpose and intended outcome are materially unclear, Docking explains what
 scope information is missing, pauses readiness work, and offers proportionate
 clarification options for the owner to choose.
 [ASMP](https://github.com/partikularwaters/adaptive-scope-mapping-protocol) is
-one optional route; owner-supplied clarification or any adequate charter,
+one optional route; owner-supplied clarification or any decision-ready charter,
 specification, brief, decision record, or other scope source is also acceptable.
 
 If Blockers or Readiness requirements exist, perform only the authorized work
