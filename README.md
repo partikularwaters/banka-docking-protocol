@@ -23,7 +23,7 @@ Banka Docking
       ↓
 Adoption assessment
       ↓
-Is Is decision-ready scope present?
+Is decision-ready scope present?
    ├── no → clarify scope → reassess
    └── yes
             ↓
