@@ -4,7 +4,7 @@ Use this only when the assessment status is `Ready for Banka` and the owner has
 chosen to continue. Package:
 
 - the completed `ADOPTION-ASSESSMENT.md`;
-- the accepted scope source, regardless of filename or origin;
+- the decision-ready scope source, regardless of filename or origin;
 - verified commands, repository facts, and environment-specific evidence;
 - unresolved stabilization backlog items with owners and priorities;
 - explicit exclusions, prohibited actions, authority limits, and sensitive-data
@@ -22,4 +22,3 @@ Do not prescribe a tier, create Banka-managed files, copy Banka templates or
 skills, claim adoption is complete, or infer authority to deploy or mutate
 production. After delivering the package, record `Handed off` and stop unless
 the owner separately authorizes the downstream workflow.
-

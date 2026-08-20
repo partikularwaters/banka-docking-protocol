@@ -8,7 +8,7 @@
 Banka Docking is the preparation stage for adopting Banka in an existing or
 brownfield project.
 
-Docking establishes the project's actual state, evaluates adoption readiness,
+Docking establishes the project's actual state, verifies readiness evidence,
 performs only the minimal authorized work required for a truthful and safe
 handoff, and optionally hands the resulting evidence to current Banka.
 
@@ -24,7 +24,7 @@ tiering, deployment, production mutation, or ongoing project management.
 
 - **Docking** — the preparation process for bringing an existing project to a
   truthful and safe Banka handoff.
-- **Adoption readiness** — the condition Docking evaluates and establishes before
+- **Readiness evidence** — the evidence Docking evaluates and establishes before
   a project may be declared `Ready for Banka`.
 - **Banka adoption** — the downstream process governed by Banka after handoff;
   Docking does not perform or complete it.
@@ -123,15 +123,15 @@ stabilization backlog with proposed ownership and priority.
 Decide whether purpose, intended outcome, boundary, and completion condition are
 clear enough to judge readiness.
 
-- If clear, name the accepted scope source and continue.
+- If clear, name the decision-ready scope source and continue.
 - If materially unclear, set `Scope clarification required`, pause readiness
   work, explain what scope information is missing and why it prevents a readiness
   judgment, then offer proportionate clarification options for the owner to
   choose.
 - [ASMP](https://github.com/partikularwaters/adaptive-scope-mapping-protocol) is
-  one optional route. Any adequate charter, specification, brief, decision
-  record, owner-supplied clarification, or other scope source is acceptable
-  regardless of filename or provenance.
+  one optional route. Any decision-ready charter, specification, brief, decision
+  record, owner-supplied clarification, or other decision-ready scope source is
+  acceptable regardless of filename or provenance.
 - If the owner chooses ASMP, use
   [the ASMP handoff](../handoff/ASMP-HANDOFF.md). Do not embed its interview,
   mode, or output rules here. Resume only when the owner supplies an adequate
@@ -166,8 +166,8 @@ items into this phase.
 Set exactly one assessment status from the vocabulary above and cite supporting
 finding IDs and evidence.
 
-`Ready for Banka` requires a complete assessment; sufficiently clear scope;
-all Blockers and Readiness requirements resolved; verified commands and
+`Ready for Banka` requires a complete assessment; a decision-ready scope
+source; all Blockers and Readiness requirements resolved; verified commands and
 environment claims clearly bounded by evidence; and documented security,
 recovery, production authority, exclusions, Stabilization backlog, and open
 dependencies.
@@ -206,6 +206,5 @@ separate authority.
 - Recovery and production authority are explicit where relevant.
 - Scope is adequate or scope clarification has been handed off.
 - The status is supported by evidence and does not claim Banka adoption.
-- The assessment, accepted scope source, backlog, exclusions, and owners form a
+- The assessment, decision-ready scope source, backlog, exclusions, and owners form a
   clean handoff—or the owner has stopped with a useful assessment.
-

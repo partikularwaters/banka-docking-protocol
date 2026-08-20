@@ -26,9 +26,8 @@ accessed, so that statement remains user-supplied and unverified.
 
 ## Scope, safety, and decision
 
-The owner-approved brief is an adequate scope source. Local evidence is not
-production evidence. No deployment or production change was proposed. With
+The owner-approved brief is the decision-ready scope source. Local evidence is
+not production evidence. No deployment or production change was proposed. With
 BA-001 resolved and no blocker present, the fictional project is `Ready for
 Banka`. The owner may instead decline Banka and retain this assessment plus
 BA-002 as a useful project record.
-

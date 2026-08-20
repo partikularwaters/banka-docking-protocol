@@ -80,7 +80,7 @@ entries with a reason and replacing finding ID. Never reuse or renumber IDs.
 ## 7. Scope clarity
 
 - Scope is sufficiently clear: yes / no
-- Accepted scope source, filename, and owner:
+- Decision-ready scope source, filename, and owner:
 - Evidence for the decision:
 - Open scope questions and consequence:
 - Optional clarification route chosen, if any:
@@ -128,7 +128,7 @@ mutation or deployment.
 ## 12. Handoff package and unresolved dependencies
 
 - This assessment:
-- Accepted scope source:
+- Decision-ready scope source:
 - Verified commands and environment facts:
 - Stabilization backlog and owners:
 - Explicit exclusions and prohibited actions:
@@ -136,4 +136,3 @@ mutation or deployment.
 - Receiving workflow and current authoritative link:
 - Next action and owner:
 - Stop acknowledgement:
-

@@ -6,8 +6,9 @@
 
 Docking brings an existing or brownfield project to the point where Banka can
 safely begin its own adoption process. It establishes the project's actual
-state, determines what—if anything—must be resolved before handoff, and produces
-an `ADOPTION-ASSESSMENT.md` that records the evidence and readiness decision.
+state, verifies readiness evidence, determines what—if anything—must be resolved
+before handoff, and produces an `ADOPTION-ASSESSMENT.md` that records the
+evidence and readiness decision.
 
 Docking does not itself adopt Banka. It prepares the project; Banka remains
 authoritative for what happens after handoff.
@@ -87,7 +88,8 @@ scope information is missing, pauses readiness work, and offers proportionate
 clarification options for the owner to choose.
 [ASMP](https://github.com/partikularwaters/adaptive-scope-mapping-protocol) is
 one optional route; owner-supplied clarification or any decision-ready charter,
-specification, brief, decision record, or other scope source is also acceptable.
+specification, brief, decision record, or other decision-ready scope source is
+also acceptable.
 
 If Blockers or Readiness requirements exist, perform only the authorized work
 required to resolve them. Put all other valuable work in the Stabilization

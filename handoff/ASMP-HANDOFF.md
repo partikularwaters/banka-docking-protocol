@@ -1,8 +1,9 @@
 # Optional Scope-Clarification Handoff
 
 Use this handoff only after the assessment finds scope materially unclear and
-the owner chooses a scope-clarification route. ASMP is optional; another adequate
-workflow or owner-supplied scope artifact is equally acceptable.
+the owner chooses a scope-clarification route. ASMP is optional; another
+workflow that can produce decision-ready scope, or an owner-supplied
+decision-ready scope artifact, is equally acceptable.
 
 Package only:
 
@@ -23,4 +24,3 @@ provenance.
 
 Do not pass credentials, private logs, customer data, or unsupported production
 claims. Link to controlled evidence or provide a redacted description.
-
